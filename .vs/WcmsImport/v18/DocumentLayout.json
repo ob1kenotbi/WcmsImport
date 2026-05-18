@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\syazwan.suhaimi\\source\\repos\\WcmsImport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|WcmsImport.Api\\WcmsImport.Api.csproj|c:\\users\\syazwan.suhaimi\\source\\repos\\wcmsimport\\wcmsimport.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|WcmsImport.Api\\WcmsImport.Api.csproj|solutionrelative:wcmsimport.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|WcmsImport.Api\\WcmsImport.Api.csproj|c:\\users\\syazwan.suhaimi\\source\\repos\\wcmsimport\\wcmsimport.api\\services\\importservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|WcmsImport.Api\\WcmsImport.Api.csproj|solutionrelative:wcmsimport.api\\services\\importservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|WcmsImport.Api\\WcmsImport.Api.csproj|c:\\users\\syazwan.suhaimi\\source\\repos\\wcmsimport\\wcmsimport.api\\services\\iimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|WcmsImport.Api\\WcmsImport.Api.csproj|solutionrelative:wcmsimport.api\\services\\iimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|WcmsImport.Api\\WcmsImport.Api.csproj|c:\\users\\syazwan.suhaimi\\source\\repos\\wcmsimport\\wcmsimport.api\\repositories\\icontentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|WcmsImport.Api\\WcmsImport.Api.csproj|solutionrelative:wcmsimport.api\\repositories\\icontentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|WcmsImport.Api\\WcmsImport.Api.csproj|c:\\users\\syazwan.suhaimi\\source\\repos\\wcmsimport\\wcmsimport.api\\repositories\\contentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|WcmsImport.Api\\WcmsImport.Api.csproj|solutionrelative:wcmsimport.api\\repositories\\contentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|WcmsImport.Api\\WcmsImport.Api.csproj|c:\\users\\syazwan.suhaimi\\source\\repos\\wcmsimport\\wcmsimport.api\\notifications\\upstreamnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|WcmsImport.Api\\WcmsImport.Api.csproj|solutionrelative:wcmsimport.api\\notifications\\upstreamnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|WcmsImport.Api\\WcmsImport.Api.csproj|c:\\users\\syazwan.suhaimi\\source\\repos\\wcmsimport\\wcmsimport.api\\notifications\\iupstreamnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|WcmsImport.Api\\WcmsImport.Api.csproj|solutionrelative:wcmsimport.api\\notifications\\iupstreamnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|WcmsImport.Api\\WcmsImport.Api.csproj|c:\\users\\syazwan.suhaimi\\source\\repos\\wcmsimport\\wcmsimport.api\\models\\importresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|WcmsImport.Api\\WcmsImport.Api.csproj|solutionrelative:wcmsimport.api\\models\\importresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|WcmsImport.Api\\WcmsImport.Api.csproj|c:\\users\\syazwan.suhaimi\\source\\repos\\wcmsimport\\wcmsimport.api\\models\\contentitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|WcmsImport.Api\\WcmsImport.Api.csproj|solutionrelative:wcmsimport.api\\models\\contentitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|WcmsImport.Api\\WcmsImport.Api.csproj|c:\\users\\syazwan.suhaimi\\source\\repos\\wcmsimport\\wcmsimport.api\\data\\wcmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|WcmsImport.Api\\WcmsImport.Api.csproj|solutionrelative:wcmsimport.api\\data\\wcmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|WcmsImport.Api\\WcmsImport.Api.csproj|c:\\users\\syazwan.suhaimi\\source\\repos\\wcmsimport\\wcmsimport.api\\controllers\\importcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|WcmsImport.Api\\WcmsImport.Api.csproj|solutionrelative:wcmsimport.api\\controllers\\importcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\syazwan.suhaimi\\source\\repos\\WcmsImport\\WcmsImport.Api\\Repositories\\ContentRepository.cs",
+              "RelativeDocumentMoniker": "WcmsImport.Api\\Repositories\\ContentRepository.cs",
+              "ToolTip": "C:\\Users\\syazwan.suhaimi\\source\\repos\\WcmsImport\\WcmsImport.Api\\Repositories\\ContentRepository.cs",
+              "RelativeToolTip": "WcmsImport.Api\\Repositories\\ContentRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA3wCQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T01:18:35.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpstreamNotifier.cs",
+              "DocumentMoniker": "C:\\Users\\syazwan.suhaimi\\source\\repos\\WcmsImport\\WcmsImport.Api\\Notifications\\UpstreamNotifier.cs",
+              "RelativeDocumentMoniker": "WcmsImport.Api\\Notifications\\UpstreamNotifier.cs",
+              "ToolTip": "C:\\Users\\syazwan.suhaimi\\source\\repos\\WcmsImport\\WcmsImport.Api\\Notifications\\UpstreamNotifier.cs",
+              "RelativeToolTip": "WcmsImport.Api\\Notifications\\UpstreamNotifier.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T01:18:27.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUpstreamNotifier.cs",
+              "DocumentMoniker": "C:\\Users\\syazwan.suhaimi\\source\\repos\\WcmsImport\\WcmsImport.Api\\Notifications\\IUpstreamNotifier.cs",
+              "RelativeDocumentMoniker": "WcmsImport.Api\\Notifications\\IUpstreamNotifier.cs",
+              "ToolTip": "C:\\Users\\syazwan.suhaimi\\source\\repos\\WcmsImport\\WcmsImport.Api\\Notifications\\IUpstreamNotifier.cs",
+              "RelativeToolTip": "WcmsImport.Api\\Notifications\\IUpstreamNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T01:18:22.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ImportController.cs",
+              "DocumentMoniker": "C:\\Users\\syazwan.suhaimi\\source\\repos\\WcmsImport\\WcmsImport.Api\\Controllers\\ImportController.cs",
+              "RelativeDocumentMoniker": "WcmsImport.Api\\Controllers\\ImportController.cs",
+              "ToolTip": "C:\\Users\\syazwan.suhaimi\\source\\repos\\WcmsImport\\WcmsImport.Api\\Controllers\\ImportController.cs",
+              "RelativeToolTip": "WcmsImport.Api\\Controllers\\ImportController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T01:17:20.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\syazwan.suhaimi\\source\\repos\\WcmsImport\\WcmsImport.Api\\Program.cs",
+              "RelativeDocumentMoniker": "WcmsImport.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\syazwan.suhaimi\\source\\repos\\WcmsImport\\WcmsImport.Api\\Program.cs",
+              "RelativeToolTip": "WcmsImport.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:39:05.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IImportService.cs",
+              "DocumentMoniker": "C:\\Users\\syazwan.suhaimi\\source\\repos\\WcmsImport\\WcmsImport.Api\\Services\\IImportService.cs",
+              "RelativeDocumentMoniker": "WcmsImport.Api\\Services\\IImportService.cs",
+              "ToolTip": "C:\\Users\\syazwan.suhaimi\\source\\repos\\WcmsImport\\WcmsImport.Api\\Services\\IImportService.cs",
+              "RelativeToolTip": "WcmsImport.Api\\Services\\IImportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:40:04.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImportService.cs",
+              "DocumentMoniker": "C:\\Users\\syazwan.suhaimi\\source\\repos\\WcmsImport\\WcmsImport.Api\\Services\\ImportService.cs",
+              "RelativeDocumentMoniker": "WcmsImport.Api\\Services\\ImportService.cs",
+              "ToolTip": "C:\\Users\\syazwan.suhaimi\\source\\repos\\WcmsImport\\WcmsImport.Api\\Services\\ImportService.cs",
+              "RelativeToolTip": "WcmsImport.Api\\Services\\ImportService.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAYwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T01:19:37.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IContentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\syazwan.suhaimi\\source\\repos\\WcmsImport\\WcmsImport.Api\\Repositories\\IContentRepository.cs",
+              "RelativeDocumentMoniker": "WcmsImport.Api\\Repositories\\IContentRepository.cs",
+              "ToolTip": "C:\\Users\\syazwan.suhaimi\\source\\repos\\WcmsImport\\WcmsImport.Api\\Repositories\\IContentRepository.cs",
+              "RelativeToolTip": "WcmsImport.Api\\Repositories\\IContentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T01:19:19.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImportResult.cs",
+              "DocumentMoniker": "C:\\Users\\syazwan.suhaimi\\source\\repos\\WcmsImport\\WcmsImport.Api\\Models\\ImportResult.cs",
+              "RelativeDocumentMoniker": "WcmsImport.Api\\Models\\ImportResult.cs",
+              "ToolTip": "C:\\Users\\syazwan.suhaimi\\source\\repos\\WcmsImport\\WcmsImport.Api\\Models\\ImportResult.cs",
+              "RelativeToolTip": "WcmsImport.Api\\Models\\ImportResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:39:57.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContentItem.cs",
+              "DocumentMoniker": "C:\\Users\\syazwan.suhaimi\\source\\repos\\WcmsImport\\WcmsImport.Api\\Models\\ContentItem.cs",
+              "RelativeDocumentMoniker": "WcmsImport.Api\\Models\\ContentItem.cs",
+              "ToolTip": "C:\\Users\\syazwan.suhaimi\\source\\repos\\WcmsImport\\WcmsImport.Api\\Models\\ContentItem.cs",
+              "RelativeToolTip": "WcmsImport.Api\\Models\\ContentItem.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA6wAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:39:55.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WcmsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\syazwan.suhaimi\\source\\repos\\WcmsImport\\WcmsImport.Api\\Data\\WcmsDbContext.cs",
+              "RelativeDocumentMoniker": "WcmsImport.Api\\Data\\WcmsDbContext.cs",
+              "ToolTip": "C:\\Users\\syazwan.suhaimi\\source\\repos\\WcmsImport\\WcmsImport.Api\\Data\\WcmsDbContext.cs",
+              "RelativeToolTip": "WcmsImport.Api\\Data\\WcmsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:39:48.703Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
